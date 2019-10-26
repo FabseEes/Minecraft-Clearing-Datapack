@@ -1,0 +1,28 @@
+HOW TO INSTALL:
+
+Drag the "Cleaner" - folder into the "datapacks" - folder of your world.
+
+INGAME:
+
+First activate cheats in your world.
+When that's done type following Commands in the Chat:
+1. /datapack enable "file/Cleaner"
+2. /reload
+
+RUN THE CLEANER:
+
+Position yourself in the SOUTH WEST corner of the chunk, which will be the center.
+To see the separated chunks press F3+G 
+Press F3 again to see in wich direction you are facing (at the left side FACING: ... )
+
+Now you can type the command in the chat:
+
+/function game:function/cleaner
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Have Fun !!!
+
+Made by FabseEes	follow my Insta: @das.3.meme.reich
